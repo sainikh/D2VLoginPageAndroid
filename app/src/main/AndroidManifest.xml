@@ -13,10 +13,10 @@
         android:theme="@style/Base.Theme.D2VLogin"
         tools:targetApi="31">
         <activity
-            android:name=".LoginFeature.Ui.activity.HomeActivity"
+            android:name=".LoginFeature.ui.activity.HomeActivity"
             android:exported="false" />
         <activity
-            android:name=".LoginFeature.Ui.activity.MainActivity"
+            android:name=".LoginFeature.ui.activity.MainActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

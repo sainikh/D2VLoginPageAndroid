@@ -1,4 +1,4 @@
-package com.example.d2vlogin.LoginFeature.Ui.Entity
+package com.example.d2vlogin.LoginFeature.ui.Entity
 
 import android.text.TextUtils
 import android.util.Patterns

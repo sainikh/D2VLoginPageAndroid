@@ -1,11 +1,11 @@
-package com.example.d2vlogin.LoginFeature.Ui.activity
+package com.example.d2vlogin.LoginFeature.ui.activity
 
 import android.os.Bundle
 import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
-import com.example.d2vlogin.LoginFeature.Ui.Entity.UserAuth.isPasswordValid
-import com.example.d2vlogin.LoginFeature.Ui.Entity.UserAuth.isValidEmail
-import com.example.d2vlogin.LoginFeature.Ui.Entity.UserAuth.isValidMobile
+import com.example.d2vlogin.LoginFeature.ui.Entity.UserAuth.isPasswordValid
+import com.example.d2vlogin.LoginFeature.ui.Entity.UserAuth.isValidEmail
+import com.example.d2vlogin.LoginFeature.ui.Entity.UserAuth.isValidMobile
 
 import com.example.d2vlogin.databinding.ActivityMainBinding
 
