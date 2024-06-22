@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">D2VLogin</string>
+    <string name="email_or_mobile_number">Email or Mobile Number</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="home_page">Home Page</string>
+    <string name="don_t_have_an_account_sign_up">Don\'t have an account? Sign up</string>
+    <string name="already_have_an_account_login">Already have an account? Login</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="confirm_password">Confirm Password</string>
+</resources>
