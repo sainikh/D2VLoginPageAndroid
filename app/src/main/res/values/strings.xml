@@ -3,9 +3,20 @@
     <string name="email_or_mobile_number">Email or Mobile Number</string>
     <string name="password">Password</string>
     <string name="login">Login</string>
+    <string name="log_in">Log In</string>
     <string name="home_page">Home Page</string>
     <string name="don_t_have_an_account_sign_up">Don\'t have an account? Sign up</string>
     <string name="already_have_an_account_login">Already have an account? Login</string>
     <string name="sign_up">Sign Up</string>
     <string name="confirm_password">Confirm Password</string>
+    <string name="lets_get_started">Let\'s Get Started</string>
+    <string name="welcome_to_the_feature">Welcome to the Future</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="facebook">Facebook</string>
+    <string name="google">Google</string>
+    <string name="enter_your_email_password"><![CDATA[Enter your email & password]]></string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="enter_your_email">Enter your email</string>
+    <string name="enter_your_password">Enter your password</string>
 </resources>
